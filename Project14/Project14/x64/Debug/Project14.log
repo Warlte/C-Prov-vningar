@@ -1,0 +1,3 @@
+﻿  maimn.cpp
+C:\Users\malte\source\repos\Project14\Project14\maimn.cpp(9): error C4789: buffer 'arr' of size 400 bytes will be overrun; 4 bytes will be written starting at offset 404
+C:\Users\malte\source\repos\Project14\Project14\maimn.cpp(8): error C4789: buffer 'arr' of size 400 bytes will be overrun; 4 bytes will be written starting at offset 400
