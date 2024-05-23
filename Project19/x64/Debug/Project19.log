@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\malte\source\repos\Project19\Project19\main.cpp(33,29): warning C4305: 'initializing': truncation from '__int64' to 'int'
+C:\Users\malte\source\repos\Project19\Project19\main.cpp(33,18): warning C4309: 'initializing': truncation of constant value
+C:\Users\malte\source\repos\Project19\Project19\main.cpp(36,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Project19.vcxproj -> C:\Users\malte\source\repos\Project19\x64\Debug\Project19.exe
